@@ -1,8 +1,10 @@
 .info-weather-container {
     position: relative;
+    color: white;
+    font-weight: 500;
     .city{
        position: relative;
-       font-size: 2em;
+       font-size: 4em;
     }
     .temperature {
         position: relative;
