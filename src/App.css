@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.weather-content {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  transform: translateY(-50%);
+}

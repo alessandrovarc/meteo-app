@@ -1,0 +1,14 @@
+.info-weather-container {
+    position: relative;
+    .city{
+       position: relative;
+       font-size: 2em;
+    }
+    .temperature {
+        position: relative;
+        font-size: 4em;
+    }
+    .description {
+        position: relative;
+    }
+}
