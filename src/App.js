@@ -9,7 +9,7 @@ import VideoBackground from './component/VideoBakcground';
 
 
 function App() {
-   const[city, setCity]= useState('Roma');
+   const[city, setCity]= useState('');
    const[weather, setWeather]=useState(null);
 
    useEffect(()=> {

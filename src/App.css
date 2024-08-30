@@ -36,6 +36,9 @@
     transform: rotate(360deg);
   }
 }
+*{
+  font-family: "Raleway", sans-serif;
+}
 .weather-content {
   position: absolute;
   top: 50%;

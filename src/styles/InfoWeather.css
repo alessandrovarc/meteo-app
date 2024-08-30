@@ -2,9 +2,12 @@
     position: relative;
     color: white;
     font-weight: 500;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     .city{
        position: relative;
        font-size: 4em;
+       text-transform: uppercase;
+       font-weight: 600;
     }
     .temperature {
         position: relative;
